@@ -23,6 +23,8 @@ saved on one invoice. In the above form invoice number is 1133.
 Price
 - User should be able to add as many row they want
 - The invoice Net, VAT and Gross Total will be auto calculated from the invoice detail table.
+
+Save button: to save invoice information in database. 
  
 
 
